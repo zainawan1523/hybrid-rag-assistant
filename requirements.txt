@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+streamlit
+openai
+python-dotenv
+rank_bm25
+sentence-transformers
+numpy
+langchain-community
+langchain-text-splitters
+pypdf
